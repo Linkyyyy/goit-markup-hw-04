@@ -228,6 +228,9 @@ cursor: pointer;
     
         
 }
+.third-section-list-container {
+    display: flex;
+}
 /* 4 Section =========================================================*/
 .fourth-section {
     padding-top: 120px;
