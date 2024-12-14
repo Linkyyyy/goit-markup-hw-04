@@ -67,6 +67,20 @@ img{
 .nav .nav-link{
     color: #2e2f42;
     padding: 24px 0;
+    position: relative;
+    color: #404bbf;
+    color: 250ms cubic-bezier(0.4, 0, 0.2, 1)
+}
+.nav .nav-link::after {
+    content:"для встановлення вмісту, який має бути відображений в псевдоелементі" ;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+    height: 4px;
+    background-color: #404bbf;
+    border-radius: 2px;
+
 }
 .nav .nav-link:hover{
     color: #404bbf
