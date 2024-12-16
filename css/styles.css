@@ -221,11 +221,6 @@ cursor: pointer;
     display: flex;
     justify-content: center;
     gap: 24px;
-    
-    
-    display: flex;
-    justify-content: center;
-    gap: 24px;
 }
 .third-section-list-item{
     border-radius: 0px 0px 4px 4px;
