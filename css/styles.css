@@ -234,6 +234,11 @@ cursor: pointer;
     
         
 }
+.icons-list {
+display: flex;
+justify-content: center;
+gap: 24px;
+}
 
 /* 4 Section =========================================================*/
 .fourth-section {
