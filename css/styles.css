@@ -7,9 +7,8 @@ body {
 }
 ul {
     list-style: none;
-    /* padding-left: 0; */
     padding: 24px 0;
-        display: block;
+     display: block;
 }
 
 a {
@@ -232,13 +231,14 @@ cursor: pointer;
     0px 2px 1px rgba(46, 47, 66, 0.08);
     width: 40px;
     height: 40px;
-    
+    flex-basis: calc((100% - 3 * 24px) / 4);
         
 }
 .icons-list {
 display: flex;
 justify-content: center;
 gap: 24px;
+flex-wrap: wrap;
 }
 .icons-list-item {
     width: 40px;
