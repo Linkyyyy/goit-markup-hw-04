@@ -258,6 +258,9 @@ flex-wrap: wrap;
 .icons-list-item-link:focus {
     background-color: #404bbf;
 }
+.icon {
+    fill:#f4f4fd ;
+}
 
 /* 4 Section =========================================================*/
 .fourth-section {
