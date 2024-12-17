@@ -254,8 +254,8 @@ flex-wrap: wrap;
     justify-content: center;
 
 }
-.icons-list-item-lin:hover
-.icons-list-item-lin:focus {
+.icons-list-item-link:hover,
+.icons-list-item-link:focus {
     background-color: #404bbf;
 }
 
