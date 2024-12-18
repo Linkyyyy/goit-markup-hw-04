@@ -386,8 +386,7 @@ margin-bottom: 8px;
 
 }
 .footer .container {
-    margin-right: 120px;
-    
+    margin-right: 120px;    
 }
 .footer-soc-med-par {
 font-weight: 500;
@@ -396,8 +395,6 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color:#FFFFFF;
 margin-bottom: 16px;
-
-
 }
 .footer-soc-list {
     width: 40px;
@@ -406,7 +403,7 @@ margin-bottom: 16px;
     gap: 16px;
 }
 .footer-text {
-    margin-bottom: 16px;
+    
 }
 .footer-icons-list-item-link {
     width: 100%;
