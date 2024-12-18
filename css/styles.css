@@ -370,7 +370,6 @@ margin-bottom: 8px;
 }
 .header-div{
     display: flex;
-    align-items: baseline;
 }
 .header-nav{
     display: flex;
@@ -383,4 +382,36 @@ margin-bottom: 8px;
     padding-right: 15px;
     margin: 0 auto;
 
+}
+.footer .container {
+    margin-right: 120px;
+
+}
+.footer-soc-med-par {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color:#FFFFFF ;
+margin-bottom: 16px;
+}
+.footer-soc-list {
+    width: 40px;
+    height: 40px;
+}
+.footer-icons-list-item-link {
+    width: 100%;
+    height: 100%;
+    background-color: #4d5ae5;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-icons-list-item-link:hover,
+.footer-icons-list-item-link:focus {
+    background-color: #31d0aa;
+}
+.footer .svg {
+    fill:#f4f4fd:
 }
