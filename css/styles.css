@@ -385,7 +385,8 @@ margin-bottom: 8px;
 }
 .footer .container {
     margin-right: 120px;
-
+    display: flex;
+    align-items: baseline;
 }
 .footer-soc-med-par {
 font-weight: 500;
@@ -415,7 +416,5 @@ margin-bottom: 16px;
 .footer .svg {
     fill:#f4f4fd;
 }
-.footer-logo-par {
-    display: flex;
-    align-items: baseline;
-}
+    /* display: flex;
+    align-items: baseline; */
