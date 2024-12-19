@@ -288,7 +288,7 @@ flex-wrap: wrap;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
     transform: translateY(100%);
 }
-.team-title-list-item:hover {
+.cont-team-title-img .team-title-img-par {
     transform: translateY(0%);
 }
 .fourth-section {
