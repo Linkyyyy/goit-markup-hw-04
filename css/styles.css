@@ -271,6 +271,7 @@ flex-wrap: wrap;
 .cont-team-title-img {
     position: relative;
     overflow: hidden;
+    transform: translateY(0%);
     
 }
 .team-title-img-par {
