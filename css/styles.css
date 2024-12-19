@@ -271,6 +271,7 @@ flex-wrap: wrap;
 .cont-team-title-img {
     position: relative;
     overflow: hidden;
+    transform: translateY(100%);
 }
 .team-title-img-par {
     position: absolute;
@@ -283,7 +284,7 @@ flex-wrap: wrap;
     background-color: #4d5ae5;
     height: 100%;
     width: 100%;
-    transform: translateY(100%);
+    
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .fourth-section {
